@@ -1,0 +1,3 @@
+hi I am Sagnik.
+I am a Full Stack Developer.
+I know HTML, CSS, JS, Python, SQL.
